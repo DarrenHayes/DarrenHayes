@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DarrenHayes
-- I’m interested in learning GitHub basics.
 - 🌱 I’m currently learning Python.
 
 <!---
